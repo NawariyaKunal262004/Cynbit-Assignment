@@ -2,7 +2,7 @@
   "name": "cynbit-items-api",
   "version": "1.0.0",
   "private": true,
-  "description": "A paginated items API built with Express and MongoDB.",
+  "description": "A public website backend audit with a separate Express and MongoDB sample API.",
   "main": "src/server.js",
   "engines": {
     "node": ">=18"
